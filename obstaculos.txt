@@ -1,0 +1,4 @@
+Semarofo en Rojo: SR
+Semaforo en Verde: SV
+Peaton cruzando: PC
+ACCIDENTE: A

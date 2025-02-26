@@ -1,0 +1,9 @@
+TAXI01 - OK.Parado
+TAXI02 - OK.Parado
+TAXI03 - OK.Parado
+TAXI04 - OK.Parado
+TAXI05 - OK.Parado
+TAXI06 - OK.Parado
+TAXI07 - OK.Parado
+TAXI08 - OK.Parado
+TAXI09 - OK.Parado
